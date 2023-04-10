@@ -1,3 +1,2 @@
-print('Hello')
-print('World')
-print('EQ')
+print('HELLO')
+print('WORLD EQ')
